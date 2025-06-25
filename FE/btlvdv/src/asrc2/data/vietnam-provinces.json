@@ -1,0 +1,39 @@
+[
+    {
+      "code": "01",
+      "name": "Thành phố Hà Nội",
+      "districts": [
+        {
+          "code": "001",
+          "name": "Quận Ba Đình",
+          "wards": [
+            { "code": "00001", "name": "Phường Phúc Xá" },
+            { "code": "00002", "name": "Phường Trúc Bạch" }
+          ]
+        },
+        {
+          "code": "002",
+          "name": "Quận Hoàn Kiếm",
+          "wards": [
+            { "code": "00003", "name": "Phường Hàng Trống" },
+            { "code": "00004", "name": "Phường Hàng Bài" }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "79",
+      "name": "Thành phố Hồ Chí Minh",
+      "districts": [
+        {
+          "code": "760",
+          "name": "Quận 1",
+          "wards": [
+            { "code": "26701", "name": "Phường Tân Định" },
+            { "code": "26702", "name": "Phường Đa Kao" }
+          ]
+        }
+      ]
+    }
+  ]
+  
